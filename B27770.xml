@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The merchants daily companion</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27770</idno><idno type="EEBO-CITATION">226856955</idno>
+  <idno type="VID">195587</idno>
+  <idno type="EEBO-PROQUEST">2264204026</idno>
+  
+            <idno type="OCLC"> 226856955</idno>
+            <idno type="STC">Wing P57</idno>
+            <idno type="STC">Interim Tract Supplement Guide E4:2[165]</idno>
+            <idno type="OCLC">ocn 226856955</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195587)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E4:2[49f, 50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The merchants daily companion</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Malthus, and are to be sold at his shop, at the Sun in the Poultry,,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1684..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A prospectus.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>"Price bound two shilling six pence."</note>
+                  <note>Reel position E4:2[48f] filmed twice.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Publishers and publishing --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Business --  Textbooks --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Advertising fliers --  England --  London --  17th-18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195587:1"/>
+            <head>THE MERCHANTS Daily Companion: Treating:</head>
+            <p n="1">1. Of TRAFFICK in General.</p>
+            <p n="2">2. Of COYNES, WEIGHTS and MEASURES, with <hi>Tables</hi> shewing the Agreement of the <hi>English Foot</hi> and <hi>Ounce</hi> with the <hi>Weights</hi> and <hi>Measures</hi> of Forreign Parts.</p>
+            <p n="3">3. Of EXCHANGES, shewing the several places with which <hi>London Exchanges,</hi> and how Accompts are kept in those places. Also Copies of <hi>Bills of Exchange</hi> in most Languages. The Copy of a <hi>Protest</hi> for <hi>Non-Acceptance</hi> in <hi>English,</hi> and for <hi>Non-payment</hi> in <hi>French:</hi> shewing also what places keep the New, and what the Old stile.</p>
+            <p n="4">4. Of CUSTOMES, under which Head are comprised se<g ref="char:EOLhyphen"/>veral useful Notes, relating to the <hi>Customes</hi> payable in Forreign Lands. Also a Copy of a <hi>Bill of Health,</hi> of a <hi>Debenture,</hi> of an <hi>Indenture</hi> of <hi>Appraisment,</hi> of a <hi>Certificate</hi> for <hi>Damaged</hi> Goods, of <hi>Bond</hi> given by Strangers for Imployment of their Monys on the Commodities of this <hi>Realm,</hi> of an <hi>Affidavit</hi> for Goods lost, and of a <hi>Certificate</hi> for Goods that have paid <hi>Custom.</hi> Perticulars of <hi>Linnen-Cloath,</hi> with their Denomination and Length <hi>English</hi> Measure. Also <hi>Tables</hi> or <hi>Accompts</hi> ready cast up, for the Nett <hi>Subsidy</hi> and <hi>Additional-Duty,</hi> payable in Ready Mony upon all sorts of <hi>Linnens, Wrought-Silks, Tobacco</hi> and <hi>Wines,</hi> Imported either into <hi>London</hi> or the <hi>Out-Parts,</hi> by Na<g ref="char:EOLhyphen"/>tives or Strangers. Also Tables for the Nett <hi>Subsidy</hi> payable upon all sorts of <hi>Ʋnwrought-Silks, Tobacco</hi> (not of <hi>English Plantations)</hi> all sorts of <hi>Fustians, Thredd, Grocery-Ware, Beads, Anchoves, Bell-Mettal, Bacon, Hemp, Flax, Quiits, Furs, Hides, Leather, Skins, Druggs, &amp;c.</hi> Imported, with perticulars of all other <hi>Merchandize</hi> Imported, which are
+<pb facs="tcp:195587:2"/> not mencioned in any of the Tables, but are referrable thereun<g ref="char:EOLhyphen"/>to for the <hi>Subsidy</hi> payable, from 1 <hi>Pound,</hi> 1 <hi>Piece,</hi> 1 <hi>Dozen,</hi> 1 <hi>Hundr. &amp;c.</hi> to 500 or 1000 <hi>Pounds, Pieces, Doz. Hun. &amp;c.</hi> of every such sort of <hi>Merchandize.</hi> Also an exact Calculation of the Nett <hi>Subsidy,</hi> payable on all sorts of <hi>Merchandize</hi> Ex<g ref="char:EOLhyphen"/>ported. Likewise an <hi>Abridgment</hi> of the <hi>Statutes</hi> relating to Goods <hi>Prohibited</hi> to be Imported or Exported, and of the <hi>Sta<g ref="char:EOLhyphen"/>tutes</hi> relating to the <hi>Customes,</hi> with the true Copy of <hi>Charta Marcatoria,</hi> both in <hi>Latin</hi> and <hi>English.</hi>
+            </p>
+            <p n="5">5. Perticular Directions to the Young <hi>Merchant</hi> how to en<g ref="char:EOLhyphen"/>ter Goods Inwards or Outwards at the <hi>Custom-House,</hi> to get <hi>Bills of Ladeing</hi> signed, to proceed about <hi>Insuring</hi> Goods In<g ref="char:EOLhyphen"/>wards or Outwards. Likewise shewing what is meant by <hi>Factorage, Commission</hi> and <hi>Discompt,</hi> with the several Rates thereof as now practifed amongst <hi>Merchants,</hi>
+            </p>
+            <p n="6">6. An Account of the several <hi>Merchants</hi> Incorporate in the City of <hi>London,</hi> with the several Commodities by them Exported or Imported. Likewise an account of the Trade of those Merchants not Incorporate, as the <hi>Canary, Spa<g ref="char:EOLhyphen"/>nish, Dutch, French, Italian</hi> and <hi>West-India</hi> Merchants, and of the several Commodities by them Exported or Imported.</p>
+            <p n="7">7 An Abridgment of the Statues, relating to the <hi>Post-Office,</hi> with the price of Letters to (or from) any part of <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> or <hi>Ireland,</hi> &amp; to (or from) any part of the World where Letters per Post are conveyed; the Methods used by the <hi>Post-Master</hi> General, for the Conveyance of Letters to (or from) For<g ref="char:EOLhyphen"/>reign Parts, and the Allowances given to Merchants upon For<g ref="char:EOLhyphen"/>reign Letters.</p>
+            <p n="8">8. The Rates of <hi>Carr-Men</hi> and <hi>Water-Men,</hi> and Orders concerning both.</p>
+            <p>A Work highly necessary, as well for all Merchants, <note place="margin">☜</note> Wholesale-Men, or any other Persons that either Import or Export any Commodities whatsoever, to or from any part of the World.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Thomas Malthus,</hi> and are to be sold at his Shop, at the <hi>Sun</hi> in the <hi>Poultry,</hi> 1684,</p>
+            <p>Price Bound Two Shilling Six Pence.</p>
+            <pb facs="tcp:195587:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
